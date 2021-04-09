@@ -1,5 +1,5 @@
-cd .. (si no está en repos)
-mkdir lab
+cd repos
+git clone url
 cd lab
 git flow init -d
 git flow feature start f1
